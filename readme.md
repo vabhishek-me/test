@@ -5,6 +5,8 @@
  - https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574
  - http://mherman.org/blog/2013/09/16/managing-multiple-github-accounts/
 
+ *Note* : I've done it using .bashrc
+
 ### Reset Git Commits
 
  - https://sethrobertson.github.io/GitFixUm/fixup.html
